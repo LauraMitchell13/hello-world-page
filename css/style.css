@@ -24,7 +24,7 @@ Author URI: http://littlethunder.co
 /* Typography */
 h1 {
   font-family: 'Amatic SC', cursive;
-  font-weight: 400;
+  font-weight: 700;
   color: darkmagenta;
    -webkit-font-smoothing: antialiased;
 }
@@ -48,7 +48,7 @@ h1 {
 
 p {
     font-family: 'Amatic SC', cursive;
-    font-weight:400;
+    font-weight:700;
     color:black;
         -webkit-font-smoothing: antialiased
   line-height: 1.75em;
