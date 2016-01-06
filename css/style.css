@@ -47,6 +47,10 @@ h1 {
 }
 
 p {
+    font-family: 'Amatic SC', cursive;
+    font-weight:400;
+    color:black;
+        -webkit-font-smoothing: antialiased
   line-height: 1.75em;
 }
 
