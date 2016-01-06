@@ -23,9 +23,9 @@ Author URI: http://littlethunder.co
 
 /* Typography */
 h1 {
-  font-family: 'Josefin Sans' sans-serif;
+  font-family: 'Amatic SC', cursive;
   font-weight: 400;
-  color: #444;
+  color: darkmagenta;
    -webkit-font-smoothing: antialiased;
 }
 
